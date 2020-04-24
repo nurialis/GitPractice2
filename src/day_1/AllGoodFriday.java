@@ -5,5 +5,7 @@ public class AllGoodFriday {
         System.out.println("All Fridays are Good");
 
         // goood to goo
+        
+        // this line add it from git hub
     }
 }
